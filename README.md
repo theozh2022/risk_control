@@ -1,6 +1,7 @@
 # risk control
 
 **Task**
+
 Thanks to your excellent Data Science skills, Dr. D. made a lot of money with his amazin' grocery store. He wants to invest that money smartly. To him, investing in the stock market does not seem so lucrative. A friend recently told Dr. D. that you can make tons of money in peer2peer lending.
 
 Fascinated by the possibility to make even more money, Dr. D. decides to invest $10,000,000 in peer2peer lending on LendingClub.com (https://www.lendingclub.com/ Links to an external site.).
